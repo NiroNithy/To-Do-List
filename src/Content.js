@@ -5,12 +5,12 @@ const Content = () => {
   const [Items,setItems]=useState([
     {
       id:1,
-      checked:true,
+      checked:false,
       item:"Practice Code"
     },
     {
       id:2,
-      checked:true,
+      checked:false,
       item:"Learn English"
     },
     {
